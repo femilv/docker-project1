@@ -1,0 +1,12 @@
+# General
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Configuration and documentation
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md

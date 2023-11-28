@@ -1,0 +1,24 @@
+# General
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Specific to Python
+.venv
+env/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Development tools
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md
